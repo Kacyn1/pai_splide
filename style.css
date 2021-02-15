@@ -1,0 +1,13 @@
+body{
+    margin:0;
+    background-color: rgb(205, 230, 230);
+}
+.splide__track{
+    display: flex;
+    text-align: center;
+}
+img{
+    margin-top: 100px;
+    width: 1024px;
+    height: 760px; 
+}
