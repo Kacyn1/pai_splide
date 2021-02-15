@@ -2,12 +2,17 @@ body{
     margin:0;
     background-color: rgb(205, 230, 230);
 }
+.splide{
+    width: 1024px;
+    margin: 0 auto;
+}
 .splide__track{
     display: flex;
     text-align: center;
+    justify-content: center;
 }
 img{
     margin-top: 100px;
-    width: 1024px;
+    
     height: 760px; 
 }
